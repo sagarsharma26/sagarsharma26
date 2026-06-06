@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sagar
 
 🎓 B.Tech CSE Student at Haridwar University, Roorkee  
-💻 Learning Python, C, and C++  
+💻 Learning Python, and c
 🚀 Aspiring Software Developer  
 📚 First-Year Engineering Student
 
@@ -19,7 +19,6 @@
 ## 🛠️ Tech Stack
 
 - C
-- C++
 - Python
 - Git
 - GitHub
@@ -28,9 +27,8 @@
 
 ## 📈 Learning Progress
 
-Python      ████████░░ 80%
+Python      ██░░░░░░░░ 30%
 C           ███████░░░ 70%
-C++         ██████░░░░ 60%
 Git/GitHub  █████░░░░░ 50%
 
 ## 🚀 Current Focus
