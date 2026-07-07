@@ -42,7 +42,7 @@ Git/GitHub  █████░░░░░ 50%
 
 ## 📫 Connect With Me
 
-- Intagram : https://www.instagram.com/sagarsharmaa_18/?__pwa=1
+- Intagram : https://www.instagram.com/sagarsharmaa_18
 
 ---
 
