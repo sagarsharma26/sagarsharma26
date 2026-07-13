@@ -24,13 +24,6 @@
 - GitHub
 
 ---
-
-## 📈 Learning Progress
-
-Python      ██░░░░░░░░ 30%
-C           ███████░░░ 70%
-Git/GitHub  █████░░░░░ 50%
-
 ## 🚀 Current Focus
 
 - Problem Solving
