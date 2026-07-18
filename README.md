@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE Student at Haridwar University, Roorkee  
 💻 Learning Python, and c
-🚀 Aspiring Software Developer  
+🚀 Aspiring AIML engineer  
 📚 First-Year Engineering Student
 
 ---
